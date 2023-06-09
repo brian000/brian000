@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: brian000
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
