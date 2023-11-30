@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Donkie/Spoolman</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keep track of your inventory of 3D-printer filament spools.</div>
@@ -2864,14 +2864,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Nov 2023, 23:20:52 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 00:14:48 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
