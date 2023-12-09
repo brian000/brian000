@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jontek2/A-better-print_start-macro</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This document aims to help you get a simple but powerful start_macro for your voron printer!</div>
@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mklements/OLED_Stats</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OLED Stats Display Script For Raspberry Pi</div>
@@ -2863,7 +2863,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Dec 2023, 13:15:40 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2023, 14:13:04 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
