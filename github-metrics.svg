@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VoronDesign/Voron-0</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Voron 0 CoreXY 3D Printer design</div>
@@ -2739,7 +2739,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 22.3m out of 142m users</span>
+                                    <span class="gh">ranked 22.3m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 2 public repositories</div>
                             </div>
@@ -2877,14 +2877,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2024, 10:20:11 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2024, 11:16:39 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
