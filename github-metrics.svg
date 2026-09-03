@@ -2355,7 +2355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IamGPIO/BitHalo-201-204-Bitaxe</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwespl/nerdminer-axehub</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community fork of NerdMiner_v2 firmware adding an HTTP API, pool fallback, webhooks, and a web-based flasher. Upstream: BitMaker-hub/NerdMiner_v2.</div>
@@ -2658,7 +2658,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2026, 07:22:04 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2026, 11:38:37 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
